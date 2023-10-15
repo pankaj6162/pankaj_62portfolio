@@ -4,8 +4,8 @@
 
 > https://pankaj-62.netlify.app/
 
-![GitHub stars](https://img.shields.io/github/stars/varadbhogayata/pankaj6162.github.io)
-![GitHub forks](https://img.shields.io/github/forks/varadbhogayata/pankaj6162.github.io)
+![GitHub stars](https://img.shields.io/github/stars/pankaj-62/pankaj6162.github.io)
+![GitHub forks](https://img.shields.io/github/forks/pankaj-62/pankaj6162.github.io)
 
 ### Website Preview
 
