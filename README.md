@@ -11,7 +11,7 @@
 
 <p align="center"> 
   <kbd>
-    <a href="https://pankaj-62.netlify.app/" target="_blank"><img src="examples/preview.gif">
+    <a href="https://pankaj-62.netlify.app/" target="_blank"><img src="examples/profile.png">
   </a>
   </kbd>
 </p>
